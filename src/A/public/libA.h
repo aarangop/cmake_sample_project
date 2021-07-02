@@ -6,7 +6,7 @@
 class A 
 {
     public:
-    A() { std::cout << "hello" << std::endl; };
+    A() { std::cout << "hello says A" << std::endl; };
     ~A() { std::cout << "bye bye" << std::endl; };
 
     void saySomething();

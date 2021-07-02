@@ -2,5 +2,5 @@
 
 void A::saySomething()
 {
-    std::cout << "something..." << std::endl;
+    std::cout << "something says A..." << std::endl;
 }
